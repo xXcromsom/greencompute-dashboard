@@ -1,0 +1,33 @@
+[theme]
+base = "dark"
+primaryColor = "#46c28e"
+backgroundColor = "#141415"
+secondaryBackgroundColor = "#1d1d1f"
+textColor = "#ededed"
+linkColor = "#46c28e"
+borderColor = "#2a2a2d"
+dataframeHeaderBackgroundColor = "#19191b"
+showWidgetBorder = true
+baseRadius = "8px"
+baseFontSize = 15
+font = "Geist:https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600&display=swap, sans-serif"
+codeFont = "Geist Mono:https://fonts.googleapis.com/css2?family=Geist+Mono:wght@400;500&display=swap, monospace"
+headingFontWeights = 500
+headingFontSizes = ["2rem", "1.25rem", "1.0625rem", "1rem", "0.9375rem", "0.875rem"]
+greenColor = "#46c28e"
+orangeColor = "#e0a43a"
+redColor = "#e5484d"
+violetColor = "#9b8cf0"
+grayColor = "#85858b"
+blueColor = "#7aa7e8"
+
+[theme.sidebar]
+backgroundColor = "#0f0f10"
+secondaryBackgroundColor = "#19191b"
+borderColor = "#232325"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false
